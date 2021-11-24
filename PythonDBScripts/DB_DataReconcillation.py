@@ -1,4 +1,4 @@
-#!/opt/collabnet/teamforge/runtime/bin/wrapper/python
+#!/opt/..../runtime/bin/wrapper/python
 import DBapp.util
 import DBapp.logutil
 import DBapp.db
